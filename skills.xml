@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skill1_theory>
+	<1>What is testing</1>
+	<2>What does tester/QA engineer do</2>
+	<3>What is the goal of testing</3>
+</skill1_theory>
+<skill2_docs>
+	<1>Checklist</1>
+	<2>Bug report</2>
+	<3>Test case</3>
+	<4>Requirements</4>
+</skill2_docs>
+<skill3_progs>
+	<1>devtools</1>
+	<2>Postman</2>
+	<3>Android Studio</3>
+	<4>Dbeaver</4>
+	<5>Charles</5>
+</skill3_progs>
+<skill4_lang>
+	<1>Python</1>
+	<2>JavaScript</2>
+	<3>SQL</3>
+</skill4_lang>
+<skill5_testTechniques>
+	<1>test techniques</1>
+	<2>Equivalent class partitioning</2>
+	<3>Boundary value analysis</3>
+	<4>State transition</4>
+	<5>Pairwise testing</5>
+</skill5_testTechniques>
