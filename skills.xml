@@ -23,9 +23,8 @@
 	<3>SQL</3>
 </skill4_lang>
 <skill5_testTechniques>
-	<1>test techniques</1>
-	<2>Equivalent class partitioning</2>
-	<3>Boundary value analysis</3>
-	<4>State transition</4>
-	<5>Pairwise testing</5>
+	<1>Equivalent class partitioning</2>
+	<2>Boundary value analysis</3>
+	<3>State transition</4>
+	<4>Pairwise testing</5>
 </skill5_testTechniques>
