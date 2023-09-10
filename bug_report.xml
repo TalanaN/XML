@@ -1,1 +1,16 @@
-
+<bug_rep>
+    <name>Authors name</name>
+		<severity>Major</severity>
+		<priority>Medium</priority>
+		<description>Some description</description>
+		<stepsToReproduce>
+			<step1>Do step 1</step1>
+			<step2>Do step 2</step2>
+			<step3>Do step 3</step3>
+		</stepsToReproduce>
+		<actualAndExpectResults>
+			<actual>Some result 1</actual>
+			<expect>Some result 2</expect>
+		</actualAndExpectResults>
+		<attachments>n/a</attachments>
+	</bug_rep>
